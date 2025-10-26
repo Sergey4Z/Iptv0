@@ -97,79 +97,7 @@ https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺", Usba Кинозал 36
 
 
-#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ
-https://tva.in.ua/live/first.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ HD
-http://193.107.168.98:7006/play/526/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",1+1 марафон
-https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Ukraine international
-http://80.245.95.243:8888/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Інтер +
-http://45.143.108.110:4200/INTER
-#EXTINF:-1 group-title="Україна 🇺🇦",Action TVOE Kino HD
-http://193.27.209.122/tvoje_kino_action/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Xit TVOE Kino HD
-http://193.27.209.122/tvoje_kino_hit/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Super+ HD
-http://193.27.209.122/super_plus/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",FILM TV GROUP
-http://filmtv.zapto.org/FILM_TV_GROUP/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Україна 🇺🇦",Новосілки ТБ
-http://filmtv.zapto.org/novosilkitb/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Україна 🇺🇦",FILM TV Кінозал
-http://filmtv.zapto.org/FILMTVKinozal/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Україна 🇺🇦",Бровари Кіно TV
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",kinosweet HD
-http://193.27.209.122/kinosweet/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Сine+ legend
-http://193.27.209.122/cine_plus_legend/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Usba TV - Україна
-https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Usba TV - Україна 2
-https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Сонце HD TV 
-https://tva.in.ua/live/sonce.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ XTV MEDIA
-http://hls.xtvmedia.pp.ua/hls/trk1tv.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ XTV MEDIA r
-http://hls.xtvmedia.pp.ua:8080/hls/trk1tv.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",МИ+ УКРАЇНА HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Gags Network  
-http://95.67.12.82:9069
-#EXTINF:-1 group-title="Україна 🇺🇦",Перший Кабельний
-http://91.226.35.134:8081/PK
-#EXTINF:-1 group-title="Україна 🇺🇦",Continent E
-http://95.67.12.82:9083
-#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Київ HD TV 
-https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Запоріжжя
-https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Луцьк 
-http://193.107.168.98:7006/play/508/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Крим
-http://193.107.168.59:7005/play/436/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Крим TV 
-https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Культура HD TV 
-https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Миколаїв HD
-http://portal.ott.pink/watch/7763/index.m3u8?geo=auto&free=true&token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="Україна 🇺🇦",Орбiта tva.org.ua
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",OstWest 24
-http://95.67.12.82:9077
-#EXTINF:-1 group-title="Україна 🇺🇦",Круг (Одеса)
-http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",5 КАНАЛ
-https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Україна 🇺🇦",7 КАНАЛ
-https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",8 канал HD TV
-https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Армія ТВ HD
+
 https://m3u8.ott.blue/watch/7572/index.m3u8?geo=auto&token=94450098895765784220366841698509 
 #EXTINF:-1 group-title="Україна 🇺🇦",Перший Кабельний
 http://91.226.35.134:8081/PK 
@@ -201,16 +129,10 @@ http://nadiya.home-net.com.ua/mob/mystream.m3u8
 http://178.217.215.57/mob/mystream.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",ЕСПРЕСО HD
 https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",РАДА
-http://193.107.168.98:7001/play/24/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",РАДА HD
 https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Belsat TV 
-https://irylek.ct8.pl/stream/belsat
 #EXTINF:-1 group-title="Україна 🇺🇦",Полтавське ТВ
 http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",PTV Полтавское TV
-https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Тернопіль 1
 http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 group-title="Україна 🇺🇦",Тернопiль 1 HD
@@ -231,14 +153,14 @@ https://33news.org/33chanel/live/chunklist_w1484176056.m3u8
 https://33news.org/33chanel/live/chunklist_w459617257.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",МТМ Запоріжжя
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",1 Городский Кривий Ріг
+#EXTINF:-1 group-title="Україна 🇺🇦",Перший міський Кривий Ріг
 https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",1 Городский Одеса HD
+#EXTINF:-1 group-title="Україна 🇺🇦",Перший міський Одеса HD
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",ЧОРНОМОРСКЕ HD TV
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Чорноморська ТРК
-https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",TV Rivne 1 
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Аверс (Луцьк)
 https://avers.pp.ua/hls/efir.m3u8?key=iptv*org*ua
 #EXTINF:-1 group-title="Україна 🇺🇦",Аверс tva.org.ua
@@ -247,26 +169,25 @@ https://m3u8.ott.blue/watch/356/video.m3u8?geo=auto&token=9445009889576578422036
 https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Україна 🇺🇦",Балта ТВ HD
 http://194.50.51.34/playlist.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Telekanal RAI 
-https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Глас
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Чернівецький Промінь HD
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",СК1 (Житомир)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",TIS TV
-https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",ATR
 https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",ITV (Рівне)
-http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Сфера ТВ
 http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",АПОСТРОФ
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",100%NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",OBOZREVATEL HD
+https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+
 
 
 #EXTINF:-1 group-title="🇺🇦 Україна (погано працює)",1plus1 Int UA
